@@ -1,4 +1,4 @@
-<h1 align="center">"Welcome to the AirBnB clone project!"</h1>
+<h1 align="center">Welcome to the AirBnB clone project!</h1>
 <p align="center">An AirBnB clone.</p>
 
 ---
