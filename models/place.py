@@ -1,18 +1,19 @@
 #!/usr/bin/python3
-"""The 'place' module
+"""The `place` module
 
-It defines one class, 'Place(),
-which subclasses the 'BaseModel()' class.'
+It defines one class, `Place(),
+which sub-classes the `BaseModel()` class.`
 """
 from models.base_model import BaseModel
+
 
 class Place(BaseModel):
     """A place/house in the application.
 
-    It representd a place/house uploaded
-    by the userd of the application.
+    It represents a place/house uploaded
+    by the users of the application.
 
-    Attribute:
+    Attributes:
         name
         user_id
         city_id

@@ -1,2 +1,3 @@
-## Alx Group Project
-## 0x00. AirBnB clone - The console
+<p align="center">
+  <img src="https://github.com/Adeniyii/AirBnB_clone/blob/main/assets/hbnb_logo.png" alt="Welcome to the AirBnB clone project!">
+</p>
